@@ -48,13 +48,13 @@ Facebook, kullanıcı verilerini daha etkili bir şekilde almak ve yönetmek ama
 
 Peki bu kadar bilgiden sonra şunu da unutmadan geçmeyelim.GraphQL’in dezavantajları nelerdir peki? 
 
- –GraphQL, veri sorgulama işinin çoğunu sunucu tarafına kaydırır ve bu da sunucu geliştiricileri için karmaşıklık katar. 
+- GraphQL, veri sorgulama işinin çoğunu sunucu tarafına kaydırır ve bu da sunucu geliştiricileri için karmaşıklık katar. 
  
-–GraphQL, nasıl uygulandığına bağlı olarak, özellikle hız limitleri ve fiyatlandırma göz önüne alındığında, REST API'lerden farklı API yönetim stratejileri gerektirebilir.Bu da Rest API’lere alışkın olan geliştiriciler için bir zorlanma süreci ortaya çıkarır. 
+- GraphQL, nasıl uygulandığına bağlı olarak, özellikle hız limitleri ve fiyatlandırma göz önüne alındığında, REST API'lerden farklı API yönetim stratejileri gerektirebilir.Bu da Rest API’lere alışkın olan geliştiriciler için bir zorlanma süreci ortaya çıkarır. 
 
-–Önbellek işlemleri, REST'e göre daha karmaşıktır.API geliştiricilernin sürdürülebilir GraphQL şeması yazma gibi ek görevleri vardır. 
+- Önbellek işlemleri, REST'e göre daha karmaşıktır.API geliştiricilernin sürdürülebilir GraphQL şeması yazma gibi ek görevleri vardır. 
 
--Kullanıcılara geniş bir esneklik sunar, ancak bu, bilinçsizce yapılan sorguların güvenlik sorunlarına neden olabileceği anlamına gelir. Doğru güvenlik önlemlerinin alınması, sorguların ve mutasyonların kontrol edilmesi önemlidir. 
+- Kullanıcılara geniş bir esneklik sunar, ancak bu, bilinçsizce yapılan sorguların güvenlik sorunlarına neden olabileceği anlamına gelir. Doğru güvenlik önlemlerinin alınması, sorguların ve mutasyonların kontrol edilmesi önemlidir. 
 
 - GraphQL, genellikle tek bir endpoint üzerinden hizmet verir. Bu durum, RESTful API'lerde olduğu gibi farklı kaynaklara farklı endpoint'ler üzerinden erişim sağlamak yerine tek bir endpoint iletişimini içerir. Bu, bazı durumlarda ölçeklendirme ve izleme zorluklarına neden olabilir. 
 
