@@ -34,8 +34,14 @@ Bu kısımda GraphQL’i kullanabilmek için pom.xml kısmına GraphQL’in bir 
    </dependency> 
 
 ```
+``` 
+<dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>4.10.0</version>
 
-
+ </dependency>
+``` 
 Son yıllarda uygulama geliştirme çok karmaşık bir hale gelmiş bulunmakta.Veritabanından sadece bazı verileri çekip görüntülemekle yetinilmemekte. Bu zamanın geliştiricilerini karmaşık ve veri bakımından zengin kullanıcı arayüzleri oluşturmaya ağırlık vermektedirler.Bu sepeble genel olarak kullanılan API’ler çok zahmetli olmaya başlamaktadır. GraphQL bu sorunlarla başa çıkmak üzere tasarlanmıştır. GraphQL sunucuları, Haskell, JavaScript, Perl, Python, Ruby, Java, C++, C#, Scala, Go, Erlang, PHP ve R dahil olmak üzere birden fazla dilde mevcuttur. 
 
 GraphQL, istemci-sunucu iletişimine modern bir yaklaşımda bulunmaktadır ve geliştiriciler için zengin bir tasarlama ortamı oluşturmak için ortam hazırlanmıştır. İstemciye `istediği veriyi sorgulama ve sorma  özgürlüğü ` tanınmaktadır. Bu özellik kullanıcıların sadece ihtiyacı olan veriyi alabilmelerine olanak sağlayıp gereksiz verilerle uğraşmamalarını sağlar.Aynı zamanda bu şekilde performans artışını ve ağ trafiğinin düzenlenmesini sağlar. 
