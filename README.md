@@ -1,4 +1,5 @@
-#KLU NESNEYE YÖNELİK PROGRAMLAMA KISA SINAV 1.2 
+
+#KLU NESNEYE YÖNELİK PROGRAMLAMA KISA SINAV 1.2
 
 **Bu çalışma Bahar Üründiker ve Emine Nur Zengin tarafından birlikte hazırlanmıştır.** 
 
