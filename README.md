@@ -1,6 +1,6 @@
 #KLU NESNEYE YÖNELİK PROGRAMLAMA KISA SINAV 1.2
 
-**Bu çalışma Bahar Üründiker ve Emine Nur Zengin tarafından birlikte hazırlanmıştır.** 
+**Bu çalışma Bahar Üründiker (1220505018) ve Emine Nur Zengin (1220505056) tarafından birlikte hazırlanmıştır.** 
 
 Çalışmamız Java üzerinde tasarlanmış bir buton uygualasıdır ve arayüzü bulunmaktadır.Uygulamamız çalıştırığında Ekranımıza 4x4'lük bir buton arayüzü çıkmaktadır ve bu butonlar yazdığımız algoritma üzerinden **aktif** ve **pasif** durumlara geçmektedir.Bastığımız ilk buton royal butonu olmakta ve aktif hale gelmektedir.Royal butonu ve ondan sonra bastığımız butonlar aktif duruma geçmekte ve royal butonuna ikinci defa basana dek bu butonlar aktif olmaktadır.Royal butonuna ikinci defa bastığımızda royal butonu dahil bütün butonlar pasif hale gelmektedir.Kodumuzda rahatça anlaşılabilecek yorum satırları bulunmaktadır.
 
