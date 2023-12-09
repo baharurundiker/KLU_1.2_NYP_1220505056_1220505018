@@ -31,9 +31,10 @@ Bu kısımda GraphQL’i kullanabilmek için pom.xml kısmına GraphQL’in bir 
 
    <version>17.5</version> 
 
-   </dependency> graphql java kutuphanesini kullanabilmemiz için bunu eklemmız gerek 
+   </dependency> 
 
-``` 
+```
+
 
 Son yıllarda uygulama geliştirme çok karmaşık bir hale gelmiş bulunmakta.Veritabanından sadece bazı verileri çekip görüntülemekle yetinilmemekte. Bu zamanın geliştiricilerini karmaşık ve veri bakımından zengin kullanıcı arayüzleri oluşturmaya ağırlık vermektedirler.Bu sepeble genel olarak kullanılan API’ler çok zahmetli olmaya başlamaktadır. GraphQL bu sorunlarla başa çıkmak üzere tasarlanmıştır. GraphQL sunucuları, Haskell, JavaScript, Perl, Python, Ruby, Java, C++, C#, Scala, Go, Erlang, PHP ve R dahil olmak üzere birden fazla dilde mevcuttur. 
 
