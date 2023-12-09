@@ -1,4 +1,4 @@
-#KLU NESNEYE YÖNELİK PROGRAMLAMA KISA SINAV 1.2
+#-KLU-NESNEYE-YÖNELİK-PROGRAMLAMA-KISA-SINAV-1-2-
 
 **Bu çalışma Bahar Üründiker (1220505018) ve Emine Nur Zengin (1220505056) tarafından birlikte hazırlanmıştır.** 
 
