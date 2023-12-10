@@ -8,6 +8,7 @@
 ![2](https://github.com/baharurundiker/KLU_1.2_NYP_1220505056_1220505018/assets/77542846/a9627872-45ee-48f0-9760-cac9efeba5c8)
 ![3](https://github.com/baharurundiker/KLU_1.2_NYP_1220505056_1220505018/assets/77542846/ed585377-065c-498b-88b4-227b38ccf660)
 ![5](https://github.com/baharurundiker/KLU_1.2_NYP_1220505056_1220505018/assets/77542846/d7d630d3-5ca0-4c47-978d-6173b2ba88b9)
+![Custom-Button-Frame-2023-12-10-01-15-21](https://github.com/baharurundiker/KLU_1.2_NYP_1220505056_1220505018/assets/77542846/72e4a7c7-061e-4277-9df3-f119bd5c7551)
 
 kodumuzun çıktısı da bu şekildedir.
 
